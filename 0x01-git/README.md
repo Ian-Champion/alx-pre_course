@@ -1,1 +1,1 @@
-learn the hard way
+learn the hard way is better
